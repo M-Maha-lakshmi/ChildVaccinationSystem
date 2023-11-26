@@ -6,6 +6,8 @@ Use the above command to run the application:
    python manage.py migrate
    python manage.py runserver
 
-For start the celery use the below command:
+To start the celery use the below command:
    celery -A hospitalmanagement.celery worker --pool=solo -l INFO
    celery -A hospitalmangement beat -l INFO
+
+
