@@ -1,4 +1,4 @@
-# ChildVaccinationSystem
+# Child Vaccination Monitoring and Notification System Using Django
 Simple Web Portal for Child Vaccination Monitoring and Notification System Using Django and Celery
 
 Use the above command to run the application:
